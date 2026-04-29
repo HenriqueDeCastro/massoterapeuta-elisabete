@@ -54,25 +54,11 @@ export class HomeProceduresComponent {
         color: '#c77200'
       },
       {
-        title: 'Escalda Pés',
-        description: 'Promove relaxamento e desinchaços das pernas e  dos pés. Auxilia no stress e dores articulares. Melhora a circulação sanguínea. Combate cólica.',
-        image: '../../../../../assets/images/escalda-pes.jpg',
-        background: 'linear-gradient(to right, #5d071b 50%, #a41e3b)',
-        color: 'white'
-      },
-      {
         title: 'Massagem Esfoliante',
         description: 'Elimina toxinas. Clareia manchas. Remove células mortas. Alivia tensão e estresse. Melhora circulação sanguínea. Deixa a textura da pele mais uniforme. Previne o aparecimento de pelos encravados.',
         image: '../../../../../assets/images/massagem-esfoliante.jpg',
         background: 'linear-gradient(to right,#26140b, #45231a 70%)',
         color: '#ffe4cb'
-      },
-      {
-        title: 'Depilação',
-        description: 'Deixa a pele mais lisa. Tira o pelo através da raiz. Faz crescer menos pelo. Os pelos passam a crescer mais finos. Retira células mortas da pele.',
-        image: '../../../../../assets/images/depilacao.jpg',
-        background: 'linear-gradient(to right, #e6cfd6 40%, #f4ecef)',
-        color: '#982639'
       }
     ]
   }
